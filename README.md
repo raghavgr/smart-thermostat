@@ -12,4 +12,4 @@ Components:
 - mobile application
 
 Screenshots: 
-![](/Users/grandhis/Desktop/SCU/Courses/W19/COEN315/ATSU-Automated Temperature Control System/snapshots/Screen Shot 2019-03-15 at 11.38.19.png)
+![](https://raw.githubusercontent.com/raghavgr/smart-thermostat/master/snapshots/Screen%20Shot%202019-03-15%20at%2011.38.19.png)
